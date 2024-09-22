@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+    padding: 10px;
+}
